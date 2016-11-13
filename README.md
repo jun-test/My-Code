@@ -1,2 +1,2 @@
 # My-Code
-My code
+This folder is the code I wrote
